@@ -1,0 +1,8 @@
+[
+    {
+        "button": "button1",
+        "modifiers": ["alt"],
+        "press_command": "noop",
+        "command": "open_apple_note"
+    }
+]
